@@ -1,4 +1,4 @@
-#include <stdio.h>
+ #include <stdio.h>
 
 int main()
 {
@@ -28,5 +28,6 @@ int main()
 			
 							
 	}
+	printf("result = %d \n",c);
 	return 0;
 }
